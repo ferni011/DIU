@@ -16,7 +16,7 @@ Logotipo:
 
 Miembros
  * Fernando Pastrana Gómez   [@ferni011](https://github.com/ferni011)
- * Iván Gijón Cañete [@ivaninigc] https://github.com/ivaninigc
+ * Iván Gijón Cañete [@ivaninigc](https://github.com/ivaninigc)
 
 ----- 
 
