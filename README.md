@@ -15,7 +15,7 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * Fernando Pastrana Gómez   https://github.com/ferni011
+ * Fernando Pastrana Gómez   @ferni011
  * Iván Gijón Cañete https://github.com/ivaninigc
 
 ----- 
