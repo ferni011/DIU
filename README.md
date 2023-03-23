@@ -27,7 +27,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Vamos a realizar una comparación de las distintas webs que hay en Granada que ofrecen información sobre los distintos tours que existen en Granada.Hemos comparado las webs de "Free Tour Granada", "Granada Private Tour" y "WalkinGranada". Hemos elegido "Free Tour Granada" porque es la web que ofrece los precios más económicos, tiene buenas opiniones de los clientes y cuenta con un calendario de reserva sencillo de utilizar. Además cuenta con un diseño web atractivo y muestra la información necesaria de los tours disponibles. 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
