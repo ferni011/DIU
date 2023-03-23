@@ -32,22 +32,25 @@ Miembros
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Hemos seleccionado a Pedrinho porque es una persona a la que le encanta el arte, y quiere conocer los rincones más bonitos de Granada por lo que querrá usar la web.
->>> También hemos seleccionado a Teresa, una española que trabaja en Alemania y que tiene un marido con problemas de movilidad debido a un accidente de tráfico.
+>>> Hemos seleccionado a [Pedrinho](P1/Pedrinho.png) porque es una persona a la que le encanta el arte, y quiere conocer los rincones más bonitos de Granada por lo que querrá usar la web.
+
+>>> También hemos seleccionado a [Teresa](P1/Teresa.png) , una española que trabaja en Alemania y que tiene un marido con problemas de movilidad debido a un accidente de tráfico.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> [Visita de Pedrinho y su hermano](P1/Pedrinho-UserJourney.pdf) Aquí se muestra el viaje de Pedrinho a Granada para conocer la Alhambra y demás ya que le encanta el arte.
+
+>>> [Problema para personas con movilidad reducida en tours](P1/Teresa-UserJourney.pdf) Teresa quiere que su marido conozca Granada, de dónde es ella pero se da cuenta que no hay ningún tour en la web para personas con problemas de movilidad.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento:  [Usability Review](P1/Usability-review-template (1).xlsx)
+>>> - Valoración final (numérica): 77
+>>> - Comentario sobre la valoración:  En general, el sitio web de tours gratuitos en Granada cumple con las expectativas de los usuarios al proporcionar una amplia variedad de contenido, una navegación intuitiva y un diseño claro y organizado. Sin embargo, hay algunas áreas en las que se puede mejorar, como proporcionar atajos para usuarios más experimentados. Además, es necesario agregar un mapa del sitio o un índice para facilitar la navegación. En general, el sitio es fácil de usar y navegar, pero hay algunas mejoras que podrían hacerse para mejorar la experiencia del usuario.
 
 
 ## Paso 2. UX Design  
