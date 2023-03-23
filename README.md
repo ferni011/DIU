@@ -32,7 +32,8 @@ Miembros
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Hemos seleccionado a Pedrinho porque es una persona a la que le encanta el arte, y quiere conocer los rincones más bonitos de Granada por lo que querrá usar la web.
+>>> 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
