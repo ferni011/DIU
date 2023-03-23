@@ -33,7 +33,7 @@ Miembros
 -----
 
 >>> Hemos seleccionado a Pedrinho porque es una persona a la que le encanta el arte, y quiere conocer los rincones más bonitos de Granada por lo que querrá usar la web.
->>> 
+>>> También hemos seleccionado a Teresa, una española que trabaja en Alemania y que tiene un marido con problemas de movilidad debido a un accidente de tráfico.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
