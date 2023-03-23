@@ -27,7 +27,9 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Vamos a realizar una comparación de las distintas webs que hay en Granada que ofrecen información sobre los distintos tours que existen en Granada.Hemos comparado las webs de "Free Tour Granada", "Granada Private Tour" y "WalkinGranada". Hemos elegido "Free Tour Granada" porque es la web que ofrece los precios más económicos, tiene buenas opiniones de los clientes y cuenta con un calendario de reserva sencillo de utilizar. Además cuenta con un diseño web atractivo y muestra la información necesaria de los tours disponibles. 
+>>>[Competitive Analysis](P1/COMPETITIVE-ANALYSIS.pdf) Vamos a realizar una comparación de las webs que están relacionadas con los tours turísticos que hay en Granada. Las webs que vamos a comparar son walkingranada.com, granadaprivatetour.com con nuestra web freetour-granada.com.
+Nosotros hemos elegido esas dos porque son dos webs del mismo tema, pero sin embargo estas tienen un diseño más moderno e intuitivo que nuestra web. Tienen algunas funcionalidades más interesantes que la nuestra, además de algún apartado más útil. Walkingranada tiene un precio similar al nuestro, mientras que Privatetour no, ya que son tours privados y por lo tanto más caros. Podemos ver que nuestra web no tiene unas redes sociales a la que puedan acudir los usuarios para cualquier consulta, y un diseño que no nos permite volver a la página principal de forma tan sencilla. En cuanto a reseñas, las 3 páginas tienen unas reseñas muy buenas en Google y TripAdvisor. En conclusión, Freetour-granada es la página más económica de las 3 pero tendrá que mejorar tanto en diseño, en hacerlo más moderno e intuitivo y en incluir algunos elementos que faciliten la experiencia a los usuarios como podrían ser las redes sociales de esta web. 
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
