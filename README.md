@@ -48,7 +48,7 @@ Miembros
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  [Usability Review](P1/Usability-review-template (1).xlsx)
+>>> - Enlace al documento:  [Usability Review](P1/Usability-review-template(1).xlsx)
 >>> - Valoración final (numérica): 77
 >>> - Comentario sobre la valoración:  En general, el sitio web de tours gratuitos en Granada cumple con las expectativas de los usuarios al proporcionar una amplia variedad de contenido, una navegación intuitiva y un diseño claro y organizado. Sin embargo, hay algunas áreas en las que se puede mejorar, como proporcionar atajos para usuarios más experimentados. Además, es necesario agregar un mapa del sitio o un índice para facilitar la navegación. En general, el sitio es fácil de usar y navegar, pero hay algunas mejoras que podrían hacerse para mejorar la experiencia del usuario.
 
