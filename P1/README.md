@@ -16,7 +16,9 @@
     
     Del [Journey Map de Teresa](./Teresa-UserJourney.pdf), las conclusiones son parecidas, hace falta más especificación en cada tour. Añadir información     como la disponibilidad de autobuses, kilómetros y ruta del tour,etc.
     
-- Revisión de Usabilidad 
+- [Revisión de Usabilidad](./Usability-review-template-FreeTourGranada.pdf):
+  Viendo la valoración final (77), el sitio web de tours gratuitos en Granada cumple con las expectativas de los usuarios al proporcionar una amplia variedad de contenido, una navegación intuitiva y un diseño claro y organizado. Sin embargo, hay algunas áreas en las que se puede mejorar, como proporcionar atajos para usuarios que usen mucho el sitio, como podría ser crearles un usuario con el que no tengan que rellenar sus datos cada vez que quieran realizar una reserva. Además, es necesario agregar un mapa del sitio o un índice para facilitar la navegación. En general, el sitio es fácil de usar y navegar, pero hay algunas mejoras que podrían hacerse para mejorar la experiencia del usuario.
+  
 - Empathy Map
 
 
