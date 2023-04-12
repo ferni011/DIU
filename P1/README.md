@@ -3,9 +3,16 @@
 
 
 
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
+- Desk research: Análisis Competencia:
+  Vamos a realizar una comparación de las webs que están relacionadas con los tours turísticos que hay en Granada. Las webs que vamos a comparar son         walkingranada.com, granadaprivatetour.com con nuestra web freetour-granada.com.
+  Nosotros hemos elegido esas dos porque son dos webs del mismo tema, pero sin embargo estas tienen un diseño más moderno e intuitivo que nuestra web.       Tienen algunas funcionalidades más interesantes que la nuestra, además de algún apartado más útil. Walkingranada tiene un precio similar al nuestro,       mientras que Privatetour no, ya que son tours privados y por lo tanto más caros. Podemos ver que nuestra web no tiene unas redes sociales a la que puedan   acudir los usuarios para cualquier consulta, y un diseño que no nos permite volver a la página principal de forma tan sencilla. En cuanto a reseñas, las   3 páginas tienen unas reseñas muy buenas en Google y TripAdvisor. En conclusión, Freetour-granada es la página más económica de las 3 pero tendrá que       mejorar tanto en diseño, en hacerlo más moderno e intuitivo y en incluir algunos elementos que faciliten la experiencia a los usuarios como podrían ser     las redes sociales de esta web. 
+  
+- 2 Personas:
+    - En primer lugar hemos elegido a [Pedrinho](./Pedrinho.png), una persona a la que le encanta el arte, y quiere conocer los rincones más bonitos de             Granada por lo que querrá usar la web.
+    - Por otro lado, tenemos a[Teresa](./Teresa.png), una española que trabaja en Alemania y que tiene un marido con problemas de movilidad debido a un             accidente de tráfico.
+
+- 2 User Journey Map  ( 1 por persona):
+    Como conclusion del Journey Map de 
 - Revisión de Usabilidad 
 - Empathy Map
 
