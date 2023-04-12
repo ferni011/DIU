@@ -9,7 +9,7 @@
   
 - 2 Personas:
     - En primer lugar hemos elegido a [Pedrinho](./Pedrinho.png), una persona a la que le encanta el arte, y quiere conocer los rincones más bonitos de             Granada por lo que querrá usar la web.
-    - Por otro lado, tenemos a[Teresa](./Teresa.png), una española que trabaja en Alemania y que tiene un marido con problemas de movilidad debido a un             accidente de tráfico.
+    - Por otro lado, tenemos a [Teresa](./Teresa.png), una española que trabaja en Alemania y que tiene un marido con problemas de movilidad debido a un             accidente de tráfico.
 
 - 2 User Journey Map  ( 1 por persona):
     Como conclusion del [Journey Map de Pedrihno](./Pedrinho-UserJourney.pdf) sacamos que si aumentaran el número de guías o lo indicaran con antelación     cuantos guias quedan disponibles
