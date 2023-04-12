@@ -34,9 +34,9 @@ Nosotros hemos elegido esas dos porque son dos webs del mismo tema, pero sin emb
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Hemos seleccionado a [Pedrinho](P1/Pedrinho.png) porque es una persona a la que le encanta el arte, y quiere conocer los rincones más bonitos de Granada por lo que querrá usar la web.
+>>> Hemos seleccionado a [Pedrinho](P1/Pedrinho.df) porque es una persona a la que le encanta el arte, y quiere conocer los rincones más bonitos de Granada por lo que querrá usar la web.
 
->>> También hemos seleccionado a [Teresa](P1/Teresa.png) , una española que trabaja en Alemania y que tiene un marido con problemas de movilidad debido a un accidente de tráfico.
+>>> También hemos seleccionado a [Teresa](P1/Teresa.pdf) , una española que trabaja en Alemania y que tiene un marido con problemas de movilidad debido a un accidente de tráfico.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
