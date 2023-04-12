@@ -12,7 +12,7 @@
     - Por otro lado, tenemos a[Teresa](./Teresa.png), una española que trabaja en Alemania y que tiene un marido con problemas de movilidad debido a un             accidente de tráfico.
 
 - 2 User Journey Map  ( 1 por persona):
-    Como conclusion del [Journey Map de Pedrihno](./Pedrinho-UserJourney.pdf)) sacamos que si aumentaran el número de guías o lo indicaran con antelación     cuantos guias quedan disponibles
+    Como conclusion del [Journey Map de Pedrihno](./Pedrinho-UserJourney.pdf) sacamos que si aumentaran el número de guías o lo indicaran con antelación     cuantos guias quedan disponibles
     
     Del [Journey Map de Teresa](./Teresa-UserJourney.pdf), las conclusiones son parecidas, hace falta más especificación en cada tour. Añadir información     como la disponibilidad de autobuses, kilómetros y ruta del tour,etc.
     
