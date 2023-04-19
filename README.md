@@ -27,8 +27,11 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>>[Competitive Analysis](P1/COMPETITIVE-ANALYSIS.pdf) Vamos a realizar una comparación de las webs que están relacionadas con los tours turísticos que hay en Granada. Las webs que vamos a comparar son walkingranada.com, granadaprivatetour.com con nuestra web freetour-granada.com.
-Nosotros hemos elegido esas dos porque son dos webs del mismo tema, pero sin embargo estas tienen un diseño más moderno e intuitivo que nuestra web. Tienen algunas funcionalidades más interesantes que la nuestra, además de algún apartado más útil. Walkingranada tiene un precio similar al nuestro, mientras que Privatetour no, ya que son tours privados y por lo tanto más caros. Podemos ver que nuestra web no tiene unas redes sociales a la que puedan acudir los usuarios para cualquier consulta, y un diseño que no nos permite volver a la página principal de forma tan sencilla. En cuanto a reseñas, las 3 páginas tienen unas reseñas muy buenas en Google y TripAdvisor. En conclusión, Freetour-granada es la página más económica de las 3 pero tendrá que mejorar tanto en diseño, en hacerlo más moderno e intuitivo y en incluir algunos elementos que faciliten la experiencia a los usuarios como podrían ser las redes sociales de esta web. 
+>>>[Competitive Analysis](P1/COMPETITIVE-ANALYSIS.pdf) Después de un análisis competitivo de las empresas de tours en Granada, podemos concluir que Free-Tour Granada es una buena opción para los clientes que buscan una experiencia de tour gratuita con varias funcionalidades útiles. Su sitio web es responsive y fácil de navegar en dispositivos móviles, y también ofrecen un calendario en línea que permite a los clientes ver qué plazas están disponibles en un tour en una hora determinada. Además, proporcionan información detallada sobre la ruta del tour en su sitio web, lo que es muy útil para los clientes que buscan una experiencia de tour más informada.
+
+Aunque no ofrecen tours privados personalizados como lo hace Walkin Granada, Free-Tour Granada es una buena opción para los clientes que buscan una experiencia de tour gratuita y no necesitan servicios adicionales como tours personalizados o una fuerte presencia en redes sociales.
+
+En cuanto a las redes sociales, Free-Tour Granada no tiene ni Twitter ni Facebook como la competencia, por lo que no puede promocionarse tanto. En general, Free-Tour Granada ofrece una opción de tour gratuita con varias funcionalidades útiles, lo que puede ser una buena opción para los clientes que buscan una experiencia de tour más económica y no necesitan servicios adicionales.
 
 
 ![Método UX](img/Persona.png) 1.b Persona
