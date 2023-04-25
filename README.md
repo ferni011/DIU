@@ -5,11 +5,14 @@ Grupo: DIU2_LosEvarers  Curso: 2022/23
 Updated: 11/1/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Unlock Granada
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> UnlockGranada es una página web que se dedica a ofrecer tours gratuitos por la ciudad de Granada. La página está diseñada para todos aquellos que quieran conocer la ciudad de una manera diferente, y se adaptan tanto a turistas extranjeros como a nacionales.
+Además de los tours gratuitos, la web cuenta con una amplia sección de actividades que incluye opciones como tapas, flamenco y fútbol. De esta manera, los usuarios pueden disfrutar de la auténtica cultura granadina.
+Si bien los tours son gratuitos, se permite una opción de pago para aquellos que quieran ir más allá en el conocimiento de la ciudad y sus secretos. Además, los tours privados también son una opción que se presenta en la plataforma.
+En conclusión, UnlockGranada es una página web que ofrece una experiencia turística completa en la ciudad de Granada, con la posibilidad de conocer la cultura local de una manera más auténtica y perspicaz.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
