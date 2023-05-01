@@ -12,8 +12,8 @@ En definitiva, la Malla Receptora de Información ofrece una base sólida que pu
 
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
-
+* [ScopeCanvas](PropuestaDeValor.pdf)
+La propuesta de valor de UnlockGranada está enfocada en satisfacer las necesidades de los usuarios, incluyendo la accesibilidad, seguridad y la posibilidad de socializar mientras se descubre la ciudad y promover el turismo local sostenible y responsable. Tenemos los objetivos a largo plazo de convertirnos en la plataforma líder para tours gratuitos en Granada y establecer colaboraciones con otros actores relevantes en el sector turístico local. Con un enfoque en la creación de contenido atractivo y la recopilación y análisis de comentarios y sugerencias de los usuarios, UnlockGranada busca mejorar continuamente su oferta de tours y la experiencia del usuario. En general, la propuesta de valor está enfocada en satisfacer las necesidades de los usuarios, promoviendo una conexión profunda y significativa con la ciudad de Granada.
 
 ### TASK ANALYSIS
 
@@ -34,7 +34,7 @@ En resumen, el labelling describe la estructura del sitio web UnlockGranada, inc
 
 
 ### Prototipo Lo-FI Wireframe 
-
+Hemos realizado una serie de bocetos usando FIGMA de las páginas mas importantes de nuestra web, como pueden ser la página de inicio, pagos,tours y registro en la web. Es una primera aproximación a cómo será nuestra web
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+En esta práctica, hemos aprendido que para diseñar una página web efectiva es necesario considerar varios aspectos importantes. El labelling, el sitemap, el task analysis, la propuesta de valor y la malla receptora son algunos de ellos. También creemos que es esencial incluir una sección de accesibilidad, ya que el objetivo es que la página sea accesible para todas las personas, independientemente de sus capacidades.
