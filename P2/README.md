@@ -12,14 +12,13 @@ En definitiva, la Malla Receptora de Información ofrece una base sólida que pu
 
 
 ### PROPUESTA DE VALOR
-* [ScopeCanvas](PropuestaDeValor.pdf)
-* 
+* ScopeCanvas
 
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
-* User/Task flow
+* [User Task Matrix](TaskAnalysis.PNG) 
+En esta tabla se muestra la priorización de tareas en Beach Tour Granada, con una escala de prioridad de alto, medio y bajo. Los usuarios nacionales, residentes de Granada y usuarios extranjeros tienen una alta prioridad en recibir información del tour y consultar el calendario, mientras que la tarea de mirar reseñas tiene una prioridad baja. La prioridad de iniciar sesión, añadir reseñas y valorar tour es media. Las actividades en oferta, descubrir eventos locales y reservar tour tienen una prioridad media-alta. La prioridad de contactar, pago y buscar tour es media-baja, mientras que registrar, suscribirse a newsletters, cancelar reservas y cambiar idioma tienen prioridades bajas. El administrador y los guías tienen una prioridad alta en todas las tareas. Además, se otorgan puntos según la prioridad y algunas tareas no otorgan puntos.
 
 
 ### ARQUITECTURA DE INFORMACIÓN
