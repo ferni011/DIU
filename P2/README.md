@@ -23,8 +23,14 @@ En esta tabla se muestra la priorización de tareas en Beach Tour Granada, con u
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
-* Labelling 
+* [Sitemap](SiteMap.pdf) 
+La estructura del sitemap de UnlockGranada es clara y eficiente. La página principal index.html establece la base de la web y presenta un menú que permite acceder a las distintas secciones, tours, actividades, accesibilidad, contacto, buscador, sobre nosotros, y login. Además, se incluye información sobre Tapas, Flamenco, el equipo de fútbol local (Granada CF) y la opción de reservar en línea.
+
+En la sección de tours, se encuentra una lista de tours disponibles y un calendario para programarlos. La sección de tapas destaca la famosa gastronomía de Granada y su cultura. La sección de accesibilidad muestra información para personas con necesidades especiales. También, en la página de contacto, se proporcionan los detalles de contacto de la empresa.
+
+La opción de login permite a los usuarios registrados acceder a sus reservas y ver el historial de las mismas en la sección "Mis Reservas". También se facilita la opción de reservar un tour en línea y, en el caso del flamenco y el estadio, se dispone de secciones especiales para hacer reservas directas. Finalmente, la página de pagos permite realizar el pago en línea de los servicios adquiridos. En general, la estructura del sitemap de UnlockGranada permite una fácil navegación y reserva de servicios turísticos.
+* [Labelling](LABELLING.pdf)
+En resumen, el labelling describe la estructura del sitio web UnlockGranada, incluyendo las diferentes secciones disponibles para los usuarios, como los tours y actividades, información sobre el equipo y accesibilidad, así como la sección de contacto y el buscador. Además, se menciona la existencia de una sección de inicio de sesión para que los usuarios puedan acceder a sus reservas anteriores y gestionarlas. Este labelling es útil para entender la organización del sitio web y facilitar la navegación del usuario. 
 
 
 ### Prototipo Lo-FI Wireframe 
