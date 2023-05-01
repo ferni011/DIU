@@ -12,7 +12,8 @@ En definitiva, la Malla Receptora de Información ofrece una base sólida que pu
 
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
+* [ScopeCanvas](PropuestaDeValor.pdf)
+* 
 
 
 ### TASK ANALYSIS
