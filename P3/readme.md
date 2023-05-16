@@ -10,7 +10,10 @@ Aquí dejamos el enlace para ver nuestra Landing Page [UnlockGranada](https://un
 Y una pequeña muestra de como queda.
 ![LandingPage](./LandingPage.PNG)
 ## Guidelines
-  LOGOTIPOS
+En esta seccion explicaremos el proceso y selección de los distinto elementos gráficos de la página web.
+
+
+  ## LOGOTIPOS
   LOGO 1
   
   ![LOGO 1](./logo1.png)
@@ -24,7 +27,10 @@ Y una pequeña muestra de como queda.
   ![LOGO 3](./logo3.png)
   
 Durante el proceso de diseño del logo, hemos tenido varias ideas de logos, pero finalmente hemos optado por el último. Un diseño simple y limpio, fácil de reconocer y adaptable a distintos tamaños. También pensamos que puede ser representativo de Granada.
-
+  
+   ## Paleta de Colores
+   ![Colores](./PaletaColores.png)
+   
 
   
 ## Mockup: LAYOUT HI-FI
