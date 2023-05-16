@@ -11,7 +11,7 @@ Y una pequeña muestra de como queda.
 ![LandingPage](./LandingPage.PNG)
 ## Guidelines
   LOGOTIPOS
-      ![LOGO 1](./logo1)
+      ![LOGO 1](./logo1.png)
       
   
   
