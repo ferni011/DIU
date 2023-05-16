@@ -11,11 +11,21 @@ Y una pequeña muestra de como queda.
 ![LandingPage](./LandingPage.PNG)
 ## Guidelines
   LOGOTIPOS
-     LOGO 1
+  LOGO 1
+  
   ![LOGO 1](./logo1.png)
-     LOGO 2 
+  
+  LOGO 2 
+  
   ![lOGO 2](./logo2.png)   
   
+  LOGO 3
+  
+  ![LOGO 3](./logo3.png)
+  
+Durante el proceso de diseño del logo, hemos tenido varias ideas de logos, pero finalmente hemos optado por el último. Un diseño simple y limpio, fácil de reconocer y adaptable a distintos tamaños. También pensamos que puede ser representativo de Granada.
+
+
   
 ## Mockup: LAYOUT HI-FI
 
