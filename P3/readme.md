@@ -6,7 +6,7 @@ En esta práctica vamos a diseñar prototipos para nuestra página web. Empezare
 ## Landing Page
 Partiendo de los [Bocetos](../P2/Bocetos.pdf) realizados en la práctica anterior, y con los logos y tipografía elegidos en el Moodboard.
 Hemos desarrollado el Landing Page utilizando [Webflow](http://www.webflow.com/). 
-Aquí dejamos el enlace para  
+Aquí dejamos el enlace para ver nuestra Landing Page [UnlockGranada](https://unlockgranada.webflow.io/)
 
 ## Mockup: LAYOUT HI-FI
 
