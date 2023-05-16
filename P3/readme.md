@@ -11,8 +11,10 @@ Y una pequeña muestra de como queda.
 ![LandingPage](./LandingPage.PNG)
 ## Guidelines
   LOGOTIPOS
-      ![LOGO 1](./logo1.png)
-      
+     LOGO 1
+  ![LOGO 1]
+     LOGO 2 
+  ![lOGO 2](./logo2.png)   
   
   
 ## Mockup: LAYOUT HI-FI
