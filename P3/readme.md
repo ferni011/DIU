@@ -12,7 +12,7 @@ Y una pequeña muestra de como queda.
 ## Guidelines
   LOGOTIPOS
      LOGO 1
-  ![LOGO 1]
+  ![LOGO 1](./logo1.png)
      LOGO 2 
   ![lOGO 2](./logo2.png)   
   
