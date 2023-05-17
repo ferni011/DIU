@@ -5,7 +5,7 @@ Para el [Moodboard](./Moodboard.pdf), hemos desarrollado varios logotipos, que m
 
 ## Landing Page
 Partiendo de los [Bocetos](../P2/Bocetos.pdf) realizados en la práctica anterior, y con los logos y tipografía elegidos en el Moodboard.
-Hemos desarrollado el Landing Page utilizando [Webflow](http://www.webflow.com/), una página que está basada en versiones antiguas de Material Design y que aporta muchas herramientas adecuadas para el diseño de la Landing Page. 
+Hemos desarrollado el Landing Page utilizando [Webflow](http://www.webflow.com/), una página que está basada en versiones antiguas de Material Design y que aporta muchas herramientas adecuadas para el diseño de la Landing Page y sigue su guía de estilo. 
 Aquí dejamos el enlace para ver nuestra Landing Page [UnlockGranada](https://unlockgranada.webflow.io/).
 Y una pequeña muestra de como queda.
 ![LandingPage](./LandingPage.PNG)
@@ -36,6 +36,11 @@ Los colores que más hemos usado son el Rojo Oscuro(#8D021F), el blanco y el neg
    ## Tipografía
    
 Hemos elegido la fuente "Anton Regular", una fuente sans-serif de aspecto moderno que se puede utilizar en todos los aspectos de la página web. Tiene un diseño minimalista que dada su forma puede dar un aspecto sencillo y limpio a la página web. También, es una tipografía legible en varios tamaños lo que aporta flexibilidad para ser la fuente principal de la página.
+
+   ## Iconos
+   
+Para los iconos hemos usado la web [Font Awesome](https://fontawesome.com/search). Ya que es una biblioteca de iconos muy utilizada y confiable. Proporciona una amplia variedad de iconos de alta calidad en formatos escalables, lo que los hace ideales para su uso en diseño web y aplicaciones. Aquí dejamos varios imágenes sobre iconos de la misma.
+![Iconos](./iconos.png)
   
 ## Mockup: LAYOUT HI-FI
 
