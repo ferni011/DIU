@@ -30,6 +30,7 @@ Durante el proceso de diseño del logo, hemos tenido varias ideas de logos, pero
   
    ## Paleta de Colores
    ![Colores](./PaletaColores.PNG)
+   
 Los colores que más hemos usado son el Rojo Oscuro(#8D021F), el blanco y el negro. El color rojo aporta energía y es muy llamativo para destacar botones y sitios importantes de la página. El blanco, aporta pureza, la claridad y la simplicidad, es un color muy limpio, que usado para el fondo hace que el texto e imágenes destaquen más. Por último, el negro que es un color más elegante que se puede usar también para crear contraste.
 
    ## Tipografía
