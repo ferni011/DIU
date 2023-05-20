@@ -71,9 +71,6 @@ ninguno.
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-
-
-
 ## Feedback Capture Grid
 ![FeedbackCaptureGrid](P2/feedback-capture-grid.png)
   
@@ -115,9 +112,16 @@ Este labelling es útil para entender la organización del sitio web y facilitar
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-Finalmente, estos son los bocetos Lo-Fi que hemos desarrollado
+Finalmente, estos son los bocetos Lo-Fi que hemos desarrollado. Hemos desarrollado Bocetos de las páginas que hemos considerado más importantes. 
+## Pagina Principal
+![PaginaPrincipal]
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+## Tours
+![Tours]
+
+## Inicio Sesión
+![InicioSesion]
+ 
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
