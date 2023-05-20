@@ -98,7 +98,7 @@ Los grupos que consideramos más importantes son:
   - Administrador: Encargado en realizar las modificaciones en la página web.
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+![Método UX](img/labelling.PNG) 2.c IA: Sitemap + Labelling 
 ----
 El SiteMap muestra la estructura organizada de todas las páginas de nuestro sitio web.
 Como vemos en el sSitemap, los apartados con más importancia son el apartado de tours y actividades
