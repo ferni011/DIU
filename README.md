@@ -68,24 +68,21 @@ En cuanto a las redes sociales, Free-Tour Granada no tiene ni Twitter ni Faceboo
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+## Feedback Capture Grid
+![FeedbackCaptureGrid](P2/feedback-capture-grid.png)
   
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
+ En nuestra Propuesta de Valor, nos hemos querido centrar en mejorar las adaptabilidades de los tours para personas 
+ con algún tipo de discapacidad, creando tours con buses y facilidades para éstos e indicándolo claramente.
+ También, aprovechar la localización final de los tours para recomendar bares/restaurantes cercanos para la gente
+ que acabe de realizar, dando ofertas y recomendaciones. Por último, no sólo centrarnos en tours culturales, realizar
+ también actividades relaciondas con el club de fútbol de Granada.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor 
+![Propuesta de Valor]
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
