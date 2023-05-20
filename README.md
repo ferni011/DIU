@@ -82,7 +82,8 @@ En cuanto a las redes sociales, Free-Tour Granada no tiene ni Twitter ni Faceboo
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor 
-![Propuesta de Valor]
+![Propuesta de Valor](P2/PropuestaValor.png)
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
