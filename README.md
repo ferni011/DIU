@@ -38,12 +38,15 @@ En cuanto a las redes sociales, Free-Tour Granada no tiene ni Twitter ni Faceboo
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-![Pedrinho](P1/PersonaPedrinho.png)
+
 >>> Hemos seleccionado a [Pedrinho](P1/Pedrinho.pdf) porque es una persona a la que le encanta el arte, y quiere conocer los rincones más bonitos de Granada por lo que querrá usar la web.
 
+![Pedrinho](P1/PersonaPedrinho.png)
+
+>>> También hemos seleccionado a [Teresa](P1/Teresa.pdf) , una española que trabaja en Alemania y que tiene un marido con problemas de movilidad debido a un accidente de tráfico.
 
 ![Teresa](P1/PersonaTeresa.png)
->>> También hemos seleccionado a [Teresa](P1/Teresa.pdf) , una española que trabaja en Alemania y que tiene un marido con problemas de movilidad debido a un accidente de tráfico.
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -139,17 +142,23 @@ realizar.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-El landing page lo hemos realizado desde [WebFlow](https://webflow.com/). Facilita mucho el proceso de creacción del prototipo, aquí 
-el enlace para ver el landing page completo [UnlockGranda](https://unlockgranada.webflow.io/) y una pequeña imagen del mismo.
-![LandingPage](P3/LandingPage.PNG)
-
->>> Plantear Landing Page 
+El landing page lo hemos realizado desde [WebFlow](https://webflow.com/). Una página que facilita mucho el proceso de creacción del 
+prototipo, aquí el enlace para ver el landing page completo [UnlockGranda](https://unlockgranada.webflow.io/) y una pequeña imagen del mismo.
+![LandingPage](P3/LandingPage.PNG) 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Durante el logotipado, iniciamos con este diseño simple 
+![logo1](P3/logo1.png)
+
+Luego de descubrir la página logo.com hicimos estos dos diseños:
+
+![logo2](P3/logo2.png)
+![logo3](P3/logo3.png)
+
+Finalmente nos decantamos por el último logo, un logo simple, sofisticado y minimalista.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
@@ -160,9 +169,7 @@ el enlace para ver el landing page completo [UnlockGranda](https://unlockgranada
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Aquí dejamos un pequeño vídeo de como podría ser la navegación por nuestra página web para la reserva y pago de un tour.
 
 
 ## Paso 4. Evaluación 
