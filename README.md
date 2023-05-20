@@ -139,7 +139,9 @@ realizar.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-
+El landing page lo hemos realizado desde [WebFlow](https://webflow.com/). Facilita mucho el proceso de creacción del prototipo, aquí 
+el enlace para ver el landing page completo [UnlockGranda](https://unlockgranada.webflow.io/) y una pequeña imagen del mismo.
+![LandingPage](P3/LandingPage.PNG)
 
 >>> Plantear Landing Page 
 
