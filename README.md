@@ -87,8 +87,15 @@ En cuanto a las redes sociales, Free-Tour Granada no tiene ni Twitter ni Faceboo
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
+![TaskAnalysis](P2/TaskAnalysis.PNG)
 
->>> Definir "User Map" y "Task Flow" ... 
+En este apartado se ordenan por prioridad de utilización las tareas que se pueden realizar en nuestra página web.
+Los grupos que consideramos más importantes son:
+  - Usuarios Nacionales: 
+  - Residentes de Granada:
+  - Extranjeros: 
+  - Guías: Pueden información más específica sobre los tours
+  - Administrador: Encargado en realizar las modificaciones en la página web.
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
@@ -114,7 +121,7 @@ Término | Significado
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
+Para el Moodboard hemos utilizado la herramienta [milanote](https://milanote.com/),
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
