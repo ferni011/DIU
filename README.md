@@ -100,13 +100,13 @@ Los grupos que consideramos más importantes son:
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+El SiteMap muestra la estructura organizada de todas las páginas de nuestro sitio web.
+Como vemos en el sSitemap, los apartados con más importancia son el apartado de tours y actividades
+![SiteMap](P2/SiteMap.png)
 
+Este labelling es útil para entender la organización del sitio web y facilitar la navegación del usuario
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![Labelling](P2/Labelling.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
