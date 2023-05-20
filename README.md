@@ -159,6 +159,17 @@ Luego de descubrir la página logo.com hicimos estos dos diseños:
 ![logo3](P3/logo3.png)
 
 Finalmente nos decantamos por el último logo, un logo simple, sofisticado y minimalista.
+Este logo no serviría como imagen de twitter pero la web que hemos usado permitía modificar el logo
+para su uso como foto de perfil, por tanto, si fuera necesario no sería un problema.
+
+## Paleta de Colores
+La paleta de colores que hemos usado es la siguiente:
+![Colores](P3/PaletaColores.PNG)
+Nos hemos decantado por colores simples y tonos de rojo que te pueden recordar a Granada por la fruta,
+el equipo de fútbol o la Alhambra en sus tonos mas anaranjados.
+
+## Iconos
+Los iconos los hemos sacado de [FontAwesome](fontawesome.com). Aquí dejamos los iconos que hemos usado y su significado:
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
