@@ -15,7 +15,8 @@ Si bien los tours son gratuitos, se permite una opción de pago para aquellos qu
 En conclusión, UnlockGranada es una página web que ofrece una experiencia turística completa en la ciudad de Granada, con la posibilidad de conocer la cultura local de una manera más auténtica y perspicaz.
 
 Logotipo: 
-![LOGO](img/default.png)
+
+![LOGO](P3/logo3.png)
 
 Miembros
  * Fernando Pastrana Gómez   [@ferni011](https://github.com/ferni011)
@@ -39,6 +40,7 @@ En cuanto a las redes sociales, Free-Tour Granada no tiene ni Twitter ni Faceboo
 -----
 
 >>> Hemos seleccionado a [Pedrinho](P1/Pedrinho.pdf) porque es una persona a la que le encanta el arte, y quiere conocer los rincones más bonitos de Granada por lo que querrá usar la web.
+
 
 >>> También hemos seleccionado a [Teresa](P1/Teresa.pdf) , una española que trabaja en Alemania y que tiene un marido con problemas de movilidad debido a un accidente de tráfico.
 
