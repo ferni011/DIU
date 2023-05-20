@@ -92,9 +92,10 @@ ninguno.
 
 En este apartado se ordenan por prioridad de utilización las tareas que se pueden realizar en nuestra página web.
 Los grupos que consideramos más importantes son:
-  - Usuarios Nacionales: 
-  - Residentes de Granada:
-  - Extranjeros: 
+  - Usuarios Nacionales.
+  - Residentes de Granada.
+  - Extranjeros: los extranjeros pueden tener una experiencia negativa al usar la página web si no se les tiene
+    en cuenta como posibles clientes, y hablando de turismo son un conjunto muy importante.
   - Guías: Pueden información más específica sobre los tours
   - Administrador: Encargado en realizar las modificaciones en la página web.
 
@@ -107,20 +108,20 @@ Como vemos en el sSitemap, los apartados con más importancia son el apartado de
 
 Este labelling es útil para entender la organización del sitio web y facilitar la navegación del usuario
 
-![Labelling](P2/Labelling.png)
+![Labelling](P2/Labelling.PNG)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 Finalmente, estos son los bocetos Lo-Fi que hemos desarrollado. Hemos desarrollado Bocetos de las páginas que hemos considerado más importantes. 
 ## Pagina Principal
-![PaginaPrincipal]
+![PaginaPrincipal](P2/PaginaPrincipal.png)
 
 ## Tours
-![Tours]
+![Tours](P2/Tours.png)
 
 ## Inicio Sesión
-![InicioSesion]
+![InicioSesion](P2/Registro.png)
  
 
 
@@ -130,11 +131,11 @@ Finalmente, estos son los bocetos Lo-Fi que hemos desarrollado. Hemos desarrolla
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-Para el Moodboard hemos utilizado la herramienta [milanote](https://milanote.com/),
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
+Para el Moodboard hemos utilizado la herramienta [milanote](https://milanote.com/), ya que tiene una interfaz muy intuitiva, fácil
+de utilizar y sencilla. También permite combinar imágenes, texto, enlaces y otros recursos visuales en un solo lugar.
+El logotipo lo hemos realizado desde la pagina web https://logo.com/. Facilita mucho este proceso ya que tiene una amplia sección
+de plantillas para logos y es muy sencillo la personalización de éstos. Gracias a esto, ha sido un proceso rápido y sencillo de 
+realizar.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
