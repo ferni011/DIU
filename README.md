@@ -38,19 +38,23 @@ En cuanto a las redes sociales, Free-Tour Granada no tiene ni Twitter ni Faceboo
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-
+![Pedrinho](P1/PersonaPedrinho.png)
 >>> Hemos seleccionado a [Pedrinho](P1/Pedrinho.pdf) porque es una persona a la que le encanta el arte, y quiere conocer los rincones más bonitos de Granada por lo que querrá usar la web.
 
 
+![Teresa](P1/PersonaTeresa.png)
 >>> También hemos seleccionado a [Teresa](P1/Teresa.pdf) , una española que trabaja en Alemania y que tiene un marido con problemas de movilidad debido a un accidente de tráfico.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> [Visita de Pedrinho y su hermano](P1/Pedrinho-UserJourney.pdf) Aquí se muestra el viaje de Pedrinho a Granada para conocer la Alhambra y demás ya que le encanta el arte.
+>>> [Visita de Pedrinho y su hermano](P1/Pedrinho-UserJourney.pdf) Aquí se muestra el viaje de Pedrinho a Granada para conocer la Alhambra y demás ya que le encanta el arte. Este User Journey, muestra el caso de una persona que quiere visitar Granada, pero mediante tours gratuitos, finalmente no reserva nada ya que 
+no se indican apropiadamente la disponibilidad de los tours y la información de cada uno.
 
->>> [Problema para personas con movilidad reducida en tours](P1/Teresa-UserJourney.pdf) Teresa quiere que su marido conozca Granada, de dónde es ella pero se da cuenta que no hay ningún tour en la web para personas con problemas de movilidad.
+>>> [Problema para personas con movilidad reducida en tours](P1/Teresa-UserJourney.pdf) Teresa quiere que su marido conozca Granada, de dónde es ella pero se da cuenta que no hay ningún tour en la web para personas con problemas de movilidad. En este caso, a Teresa no le importa pagar por tours pero necesita un tour
+adaptado a personas con movilidad reducida por su marido. La información de los tours no es clara y no disponen de tours adaptados, por tanto, tampoco reserva
+ninguno.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -111,6 +115,7 @@ Este labelling es útil para entender la organización del sitio web y facilitar
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+Finalmente, estos son los bocetos Lo-Fi que hemos desarrollado
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
