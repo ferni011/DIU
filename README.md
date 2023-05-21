@@ -170,7 +170,21 @@ el equipo de fútbol o la Alhambra en sus tonos mas anaranjados.
 
 ## Iconos
 Los iconos los hemos sacado de [FontAwesome](fontawesome.com). Aquí dejamos los iconos que hemos usado y su significado:
+![Iconos](P3/iconosbuenos.png)
 
+  - Arrow-left: lo hemos usado para avanzar imágenes hacia la izquierda
+  - Arrow-right: para avanzar imágenes hacia la derecha
+  - Clock: Indica la duración de los tours
+  - Fire: Los tours más populares
+  - Star/Star-half-stroke: indica la puntuación de los tours
+  - Weelchair-move: Para indicar los tours adaptados para personas con movilidad reducida
+  - Circle-check: Indica que el pago se ha realizado con éxito.
+
+ ## Tipografía
+ Hemos considerado que una única fuente es suficiente, la que hemos elegido ha sido "Anton Regular", una fuente sans-serif 
+ de aspecto moderno que se puede utilizar en todos los aspectos de la página web  y se adapta bien a todos los tamaños.
+ ![Fuentes](P3/Fuentes.png)
+  
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
