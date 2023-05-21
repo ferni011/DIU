@@ -188,7 +188,10 @@ Los iconos los hemos sacado de [FontAwesome](fontawesome.com). Aquí dejamos los
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-Los prototipos los hemos realizado en Figma, para verlos, están en este [enlace]() y aquí dejamos varios de ellos.
+Los prototipos los hemos realizado en Figma, para verlos, están en este [enlace](https://www.figma.com/file/qvujjh1yU9roAkiWlUwRco/HI-FI-BOCETOS-Y-SIMULACION?type=design&node-id=0%3A1&t=IU25BqT6PJuR50JG-1) y aquí dejamos varios de ellos.
+![Tours](P3/TOURSHi-Fi.png)
+
+![Pago](P3/PAGOHi-Fi.png)
 
 
 
@@ -196,7 +199,7 @@ Los prototipos los hemos realizado en Figma, para verlos, están en este [enlace
 -----
 
 Aquí dejamos un pequeño vídeo de como podría ser la navegación por nuestra página web para la reserva y pago de un tour.
-[EnlaceVideo](https://youtu.be/cZfsBs03Uf4)
+[Video](https://youtu.be/cZfsBs03Uf4)
 
 
 ## Paso 4. Evaluación 
