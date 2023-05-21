@@ -188,14 +188,15 @@ Los iconos los hemos sacado de [FontAwesome](fontawesome.com). Aquí dejamos los
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Los prototipos los hemos realizado en Figma, para verlos, están en este [enlace]() y aquí dejamos varios de ellos.
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
 Aquí dejamos un pequeño vídeo de como podría ser la navegación por nuestra página web para la reserva y pago de un tour.
-[Video](P3/Simulacion.mp4)
+[EnlaceVideo](https://youtu.be/cZfsBs03Uf4)
 
 
 ## Paso 4. Evaluación 
