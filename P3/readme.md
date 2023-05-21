@@ -63,7 +63,7 @@ Para realizar los prototipos, hemos usado Figma, además de usar grid layout par
 
 <br>
 
-Todos los bocetos están en: [FontAwesome](https://www.figma.com/file/qvujjh1yU9roAkiWlUwRco/HI-FI-BOCETOS-Y-SIMULACION?type=design&node-id=0%3A1&t=IU25BqT6PJuR50JG-1)
+Todos los bocetos están en: [Figma](https://www.figma.com/file/qvujjh1yU9roAkiWlUwRco/HI-FI-BOCETOS-Y-SIMULACION?type=design&node-id=0%3A1&t=IU25BqT6PJuR50JG-1)
 
 Y también tenemos un vídeo en el que se muestra el proceso de reserva y de pago de un tour en:
 [enlace](https://www.youtube.com/watch?v=cZfsBs03Uf4)
