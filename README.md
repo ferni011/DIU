@@ -164,7 +164,9 @@ para su uso como foto de perfil, por tanto, si fuera necesario no sería un prob
 
 ## Paleta de Colores
 La paleta de colores que hemos usado es la siguiente:
+<br>
 ![Colores](P3/PaletaColores.PNG)
+<br>
 Nos hemos decantado por colores simples y tonos de rojo que te pueden recordar a Granada por la fruta,
 el equipo de fútbol o la Alhambra en sus tonos mas anaranjados.
 
