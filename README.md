@@ -195,6 +195,7 @@ Los iconos los hemos sacado de [FontAwesome](fontawesome.com). Aquí dejamos los
 -----
 
 Aquí dejamos un pequeño vídeo de como podría ser la navegación por nuestra página web para la reserva y pago de un tour.
+![Video](P3/Simulacion.mp4)
 
 
 ## Paso 4. Evaluación 
