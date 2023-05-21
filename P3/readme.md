@@ -57,16 +57,16 @@ Para realizar los prototipos, hemos usado Figma, además de usar grid layout par
 
 ![Pago](PAGOHi-Fi.png)
 
-![GranadaCF](GRANADA-CF.pdf)
+[GranadaCF](GRANADA-CF.pdf)
 
-![Aplicacion](APLICACION.pdf)
+[Aplicacion](APLICACION.pdf)
 
 <br>
 
-Todos los bocetos están en: ![Bocetos](HI-FI-BOCETOS-Y-SIMULACION.pdf)
+Todos los bocetos están en: [FontAwesome](https://www.figma.com/file/qvujjh1yU9roAkiWlUwRco/HI-FI-BOCETOS-Y-SIMULACION?type=design&node-id=0%3A1&t=IU25BqT6PJuR50JG-1)
 
 Y también tenemos un vídeo en el que se muestra el proceso de reserva y de pago de un tour en:
-![enlace](https://www.youtube.com/watch?v=cZfsBs03Uf4)
+[enlace](https://www.youtube.com/watch?v=cZfsBs03Uf4)
 
 ## Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 Ha sido una práctica extensa, pero bastante entretenida, ya que teníamos que crear como una marca propia, con su logotipo, sus colores, su fuente ... Además hemos aprendido a usar Figma de forma más profunda, ya que hemos tenido que llevar a cabo el diseño de los bocetos HIFI. En definitiva, a pesar de su dificultad y extensión, nos ha parecido una práctica muy útil y entretenida.
