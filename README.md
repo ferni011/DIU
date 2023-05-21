@@ -185,6 +185,7 @@ Los iconos los hemos sacado de [FontAwesome](fontawesome.com). Aquí dejamos los
  ## Tipografía
  Hemos considerado que una única fuente es suficiente, la que hemos elegido ha sido "Anton Regular", una fuente sans-serif 
  de aspecto moderno que se puede utilizar en todos los aspectos de la página web  y se adapta bien a todos los tamaños.
+ <br>
  ![Fuentes](P3/Fuentes.png)
   
 ![Método UX](img/mockup.png)  3.d Mockup
