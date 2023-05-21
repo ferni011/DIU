@@ -37,16 +37,38 @@ Los colores que más hemos usado son el Rojo Oscuro(#8D021F), el blanco y el neg
    
 Hemos elegido la fuente "Anton Regular", una fuente sans-serif de aspecto moderno que se puede utilizar en todos los aspectos de la página web. Tiene un diseño minimalista que dada su forma puede dar un aspecto sencillo y limpio a la página web. También, es una tipografía legible en varios tamaños lo que aporta flexibilidad para ser la fuente principal de la página.
 
-   ## Iconos
-   
-Para los iconos hemos usado la web [Font Awesome](https://fontawesome.com/search). Ya que es una biblioteca de iconos muy utilizada y confiable. Proporciona una amplia variedad de iconos de alta calidad en formatos escalables, lo que los hace ideales para su uso en diseño web y aplicaciones. Aquí dejamos varios imágenes sobre iconos de la misma.
-![Iconos](./iconos.png)
+## Iconos
+Los iconos los hemos sacado de [FontAwesome](fontawesome.com). Aquí dejamos los iconos que hemos usado y su significado:
+![Iconos](iconosbuenos.png)
+
+  - Arrow-left: lo hemos usado para avanzar imágenes hacia la izquierda
+  - Arrow-right: para avanzar imágenes hacia la derecha
+  - Clock: Indica la duración de los tours
+  - Fire: Los tours más populares
+  - Star/Star-half-stroke: indica la puntuación de los tours
+  - Weelchair-move: Para indicar los tours adaptados para personas con movilidad reducida
+  - Circle-check: Indica que el pago se ha realizado con éxito.
   
 ## Mockup: LAYOUT HI-FI
 
+Para realizar los prototipos, hemos usado Figma, además de usar grid layout para su diseño. Hemos creado una simulación de un proceso de reserva de un tour desde que inicias sesión hasta que pagas. También hemos creado un prototipo de otra propuesta de valor añadido que pensamos, que era conectar a la ciudad con el equipo de fútbol y también una app que permitiese seguir rutas sin la necesidad de un guía.
+<br>
+![Tours](TOURSHi-Fi.png)
 
-## Documentación: Publicación del Case Study
+![Pago](PAGOHi-Fi.png)
 
+![GranadaCF](GRANADA-CF.pdf)
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+![Aplicacion](APLICACION.pdf)
+
+<br>
+
+Todos los bocetos están en: ![Bocetos](HI-FI-BOCETOS-Y-SIMULACION.pdf)
+
+Y también tenemos un vídeo en el que se muestra el proceso de reserva y de pago de un tour en:
+![enlace](https://www.youtube.com/watch?v=cZfsBs03Uf4)
+
+## Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+Ha sido una práctica extensa, pero bastante entretenida, ya que teníamos que crear como una marca propia, con su logotipo, sus colores, su fuente ... Además hemos aprendido a usar Figma de forma más profunda, ya que hemos tenido que llevar a cabo el diseño de los bocetos HIFI. En definitiva, a pesar de su dificultad y extensión, nos ha parecido una práctica muy útil y entretenida.
+
  
