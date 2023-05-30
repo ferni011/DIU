@@ -5,11 +5,11 @@ Grupo: DIU2_LosEvarers  Curso: 2022/23
 Updated: 11/1/2023
 
 Proyecto: 
->>> UnlockGranada
+ UnlockGranada
 
 Descripción: 
 
->>> UnlockGranada es una página web que se dedica a ofrecer tours gratuitos por la ciudad de Granada. La página está diseñada para todos aquellos que quieran conocer la ciudad de una manera diferente, y se adaptan tanto a turistas extranjeros como a nacionales.
+UnlockGranada es una página web que se dedica a ofrecer tours gratuitos por la ciudad de Granada. La página está diseñada para todos aquellos que quieran conocer la ciudad de una manera diferente, y se adaptan tanto a turistas extranjeros como a nacionales.
 Además de los tours gratuitos, la web cuenta con una amplia sección de actividades que incluye opciones como tapas, flamenco y fútbol. De esta manera, los usuarios pueden disfrutar de la auténtica cultura granadina.
 Si bien los tours son gratuitos, se permite una opción de pago para aquellos que quieran ir más allá en el conocimiento de la ciudad y sus secretos. Además, los tours privados también son una opción que se presenta en la plataforma.
 En conclusión, UnlockGranada es una página web que ofrece una experiencia turística completa en la ciudad de Granada, con la posibilidad de conocer la cultura local de una manera más auténtica y perspicaz.
@@ -31,7 +31,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>>[Competitive Analysis](P1/COMPETITIVE-ANALYSIS.pdf) Después de un análisis competitivo de las empresas de tours en Granada, podemos concluir que Free-Tour Granada es una buena opción para los clientes que buscan una experiencia de tour gratuita con varias funcionalidades útiles. Su sitio web es responsive y fácil de navegar en dispositivos móviles, y también ofrecen un calendario en línea que permite a los clientes ver qué plazas están disponibles en un tour en una hora determinada. Además, proporcionan información detallada sobre la ruta del tour en su sitio web, lo que es muy útil para los clientes que buscan una experiencia de tour más informada.
+[Competitive Analysis](P1/COMPETITIVE-ANALYSIS.pdf) Después de un análisis competitivo de las empresas de tours en Granada, podemos concluir que Free-Tour Granada es una buena opción para los clientes que buscan una experiencia de tour gratuita con varias funcionalidades útiles. Su sitio web es responsive y fácil de navegar en dispositivos móviles, y también ofrecen un calendario en línea que permite a los clientes ver qué plazas están disponibles en un tour en una hora determinada. Además, proporcionan información detallada sobre la ruta del tour en su sitio web, lo que es muy útil para los clientes que buscan una experiencia de tour más informada.
 Aunque no ofrecen tours privados personalizados como lo hace Walkin Granada, Free-Tour Granada es una buena opción para los clientes que buscan una experiencia de tour gratuita y no necesitan servicios adicionales como tours personalizados o una fuerte presencia en redes sociales.
 En cuanto a las redes sociales, Free-Tour Granada no tiene ni Twitter ni Facebook como la competencia, por lo que no puede promocionarse tanto. En general, Free-Tour Granada ofrece una opción de tour gratuita con varias funcionalidades útiles, lo que puede ser una buena opción para los clientes que buscan una experiencia de tour más económica y no necesitan servicios adicionales.
 
@@ -39,11 +39,11 @@ En cuanto a las redes sociales, Free-Tour Granada no tiene ni Twitter ni Faceboo
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Hemos seleccionado a [Pedrinho](P1/Pedrinho.pdf) porque es una persona a la que le encanta el arte, y quiere conocer los rincones más bonitos de Granada por lo que querrá usar la web.
+ Hemos seleccionado a [Pedrinho](P1/Pedrinho.pdf) porque es una persona a la que le encanta el arte, y quiere conocer los rincones más bonitos de Granada por lo que querrá usar la web.
 
 ![Pedrinho](P1/PersonaPedrinho.png)
 
->>> También hemos seleccionado a [Teresa](P1/Teresa.pdf) , una española que trabaja en Alemania y que tiene un marido con problemas de movilidad debido a un accidente de tráfico.
+ También hemos seleccionado a [Teresa](P1/Teresa.pdf) , una española que trabaja en Alemania y que tiene un marido con problemas de movilidad debido a un accidente de tráfico.
 
 ![Teresa](P1/PersonaTeresa.png)
 
@@ -52,26 +52,26 @@ En cuanto a las redes sociales, Free-Tour Granada no tiene ni Twitter ni Faceboo
 ----
 
 
->>> [Visita de Pedrinho y su hermano](P1/Pedrinho-UserJourney.pdf) Aquí se muestra el viaje de Pedrinho a Granada para conocer la Alhambra y demás ya que le encanta el arte. Este User Journey, muestra el caso de una persona que quiere visitar Granada, pero mediante tours gratuitos, finalmente no reserva nada ya que 
+ [Visita de Pedrinho y su hermano](P1/Pedrinho-UserJourney.pdf) Aquí se muestra el viaje de Pedrinho a Granada para conocer la Alhambra y demás ya que le encanta el arte. Este User Journey, muestra el caso de una persona que quiere visitar Granada, pero mediante tours gratuitos, finalmente no reserva nada ya que 
 no se indican apropiadamente la disponibilidad de los tours y la información de cada uno.
 
->>> [Problema para personas con movilidad reducida en tours](P1/Teresa-UserJourney.pdf) Teresa quiere que su marido conozca Granada, de dónde es ella pero se da cuenta que no hay ningún tour en la web para personas con problemas de movilidad. En este caso, a Teresa no le importa pagar por tours pero necesita un tour
+ [Problema para personas con movilidad reducida en tours](P1/Teresa-UserJourney.pdf) Teresa quiere que su marido conozca Granada, de dónde es ella pero se da cuenta que no hay ningún tour en la web para personas con problemas de movilidad. En este caso, a Teresa no le importa pagar por tours pero necesita un tour
 adaptado a personas con movilidad reducida por su marido. La información de los tours no es clara y no disponen de tours adaptados, por tanto, tampoco reserva
 ninguno.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  [Usability Review](P1/Usability-review-template-FreeTourGranada.pdf)
->>> - Valoración final (numérica): 77
->>> - Comentario sobre la valoración:  En general, el sitio web de tours gratuitos en Granada cumple con las expectativas de los usuarios al proporcionar una amplia variedad de contenido, una navegación intuitiva y un diseño claro y organizado. Sin embargo, hay algunas áreas en las que se puede mejorar, como proporcionar atajos para usuarios que usen mucho el sitio, como podría ser crearles un usuario con el que no tengan que rellenar sus datos cada vez que quieran realizar una reserva. Además, es necesario agregar un mapa del sitio o un índice para facilitar la navegación. En general, el sitio es fácil de usar y navegar, pero hay algunas mejoras que podrían hacerse para mejorar la experiencia del usuario.
+ Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
+ SE deben incluir claramente los siguientes elementos
+ - Enlace al documento:  [Usability Review](P1/Usability-review-template-FreeTourGranada.pdf)
+ - Valoración final (numérica): 77
+ - Comentario sobre la valoración:  En general, el sitio web de tours gratuitos en Granada cumple con las expectativas de los usuarios al proporcionar una amplia variedad de contenido, una navegación intuitiva y un diseño claro y organizado. Sin embargo, hay algunas áreas en las que se puede mejorar, como proporcionar atajos para usuarios que usen mucho el sitio, como podría ser crearles un usuario con el que no tengan que rellenar sus datos cada vez que quieran realizar una reserva. Además, es necesario agregar un mapa del sitio o un índice para facilitar la navegación. En general, el sitio es fácil de usar y navegar, pero hay algunas mejoras que podrían hacerse para mejorar la experiencia del usuario.
 
 
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
 ## Feedback Capture Grid
@@ -85,7 +85,7 @@ ninguno.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+ Propuesta de valor 
 ![Propuesta de Valor](P2/PropuestaValor.png)
 
 
@@ -148,8 +148,6 @@ prototipo, aquí el enlace para ver el landing page completo [UnlockGranda](http
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 Durante el logotipado, iniciamos con este diseño simple 
 ![logo1](P3/logo1.png)
 
@@ -211,22 +209,44 @@ Aquí dejamos un pequeño vídeo de como podría ser la navegación por nuestra 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Se nos ha asignado analizar la web de DIU3.GatosUniversitarios, que trata de la artesanía nazarí y de rutas turísticas por la ciudad de Granada.
+El enlace al repositorio es:
+[Repositorio](https://github.com/DIU3-GatosUniversitarios/DIU/tree/master)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
+Para realizar el proceso de User Testing, se han seleccionado inicialmente 4 personas. A la hora de definir sus características, emociones y comportamientos se ha utilizado el método role playing. Los usuarios que hemos seleccionado son:
+Primera Persona Jorge: 
+Tipo: 4 (Discapacidad motriz)
+Acción: 5 (Realizar fotos)
+Emoción: 4 (Sorprendido)
+Jorge es un hombre de 45 años, con una discapacidad motriz que le impide caminar. Desde siempre le ha gustado mucho la fotografía y el arte y trabaja como fotógrafo para los álbumes de comuniones. Al acceder a la página web, le sorprendió que hubiera tours adaptados para personas con discapacidades y visibles a simple vista, con todas las facilidades explicadas.
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+Segunda Persona Athenea:
+Tipo: 5 (Trabajador)
+Acción:3 (Actividades culturales)
+Emoción:3 (Felicidad)
+Athenea es una mujer de 28 años, que vive en Albacete y es camarera. Es muy fan del Granada CF y  quiere aprovechar sus vacaciones, para además de visitar la ciudad, realizar el tour del estadio Nuevo Los Cármenes y poder ver un partido del Granada, por lo tanto está feliz.
+
+Tercera Persona Sofía: 
+Tipo: 3 (Grupo de amigos)
+Acción: 4 (Planificar ruta o itinerario)
+Emoción: 6 (Triste)
+Sofía es una mujer de 53 años, y por vacaciones unos amigos de la infancia vienen a Granada a visitarla. Sofía está pensando en realizar un taller de cerámica y lo hace a través de la aplicación móvil. Sin embargo, Sofía tiene un uso de internet bajo y no está familiarizada con las aplicaciones móvil. A pesar de su entusiasmo, Sofía se siente un poco insegura al hacer una reserva por el móvil. Esto le genera cierta frustración y tristeza ya que quiere brindarles a sus amigos la mejor experiencia posible.
+
+Cuarta Persona Brandon:
+Tipo: 2 (Familia)
+Acción: 2 (Extranjeros)
+Emoción: 2 (Miedo)
+Brandon va a visitar Granada junto a su esposa. Brandon es inglés, tiene 33 años, es dueño de una discoteca y le encanta la artesanía en general y por lo tanto quiere descubrir la artesanía local junto a su esposa. Sin embargo, teme que no haya demasiada información o talleres que les permitan descubrir la artesanía local, ni socializar con otras personas.
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Jorge         | H / 45   | Fotógrafo   | Media       | Formal       | Windows    | A 
+| Athenea       | M / 28   | Camarera    | Alta        | Extrovertida | Móvil      | A 
+| Sofía         | M / 53   | Jardinera   | Baja        | Introvertida | Móvil      | B 
+| Brandon       | H / 33   | Empresario  | Alta        | Tímido       | MAC        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
