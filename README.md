@@ -91,6 +91,9 @@ ninguno.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
+
+El análisis de tareas de una página web implica descomponer y comprender las acciones y procesos que los usuarios realizan al interactuar con el sitio. Se trata de identificar las actividades específicas que los usuarios llevan a cabo, los pasos involucrados y los posibles desafíos que puedan enfrentar durante su navegación.
+
 ![TaskAnalysis](P2/TaskAnalysis.PNG)
 
 En este apartado se ordenan por prioridad de utilización las tareas que se pueden realizar en nuestra página web.
