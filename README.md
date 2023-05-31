@@ -61,8 +61,6 @@ ninguno.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
- Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
- SE deben incluir claramente los siguientes elementos
  - Enlace al documento:  [Usability Review](P1/Usability-review-template-FreeTourGranada.pdf)
  - Valoración final (numérica): 77
  - Comentario sobre la valoración:  En general, el sitio web de tours gratuitos en Granada cumple con las expectativas de los usuarios al proporcionar una amplia variedad de contenido, una navegación intuitiva y un diseño claro y organizado. Sin embargo, hay algunas áreas en las que se puede mejorar, como proporcionar atajos para usuarios que usen mucho el sitio, como podría ser crearles un usuario con el que no tengan que rellenar sus datos cada vez que quieran realizar una reserva. Además, es necesario agregar un mapa del sitio o un índice para facilitar la navegación. En general, el sitio es fácil de usar y navegar, pero hay algunas mejoras que podrían hacerse para mejorar la experiencia del usuario.
@@ -74,7 +72,8 @@ ninguno.
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-## Feedback Capture Grid
+El Feedback Capture Grid es una herramienta para recopilar y categorizar comentarios y opiniones. Con secciones como "Interesante/Relevante", "Críticas Constructivas", "Preguntas" e "Ideas", ayuda a organizar el feedback recibido. Esto permite identificar puntos de interés, áreas de mejora, dudas y propuestas creativas. El Grid facilita la toma de decisiones y la mejora continua al analizar y actuar sobre la retroalimentación de manera estructurada.
+
 ![FeedbackCaptureGrid](P2/feedback-capture-grid.png)
   
  En nuestra Propuesta de Valor, nos hemos querido centrar en mejorar las adaptabilidades de los tours para personas 
@@ -85,7 +84,10 @@ ninguno.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
- Propuesta de valor 
+
+
+El análisis de un Scope Canvas implica desglosar y comprender los elementos clave de un proyecto o iniciativa. Consiste en identificar y definir claramente los objetivos, necesidades, propósito, requisitos,acciones y métricas asociadas con el proyecto. Este análisis ayuda a tener una visión clara y completa de lo que se pretende lograr, los límites y las condiciones en las que se llevará a cabo el proyecto.
+
 ![Propuesta de Valor](P2/PropuestaValor.png)
 
 
