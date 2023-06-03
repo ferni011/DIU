@@ -278,17 +278,17 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 >>> ![Método UX](img/Accesibility.png) 
->>>5.a Diseño del experimento y reclutado de usuarios
+5.a Diseño del experimento y reclutado de usuarios
 
->>>Diseño del experimento:
+Diseño del experimento:
 En este experimento hemos utilizado Gaze Recorder.Hemos subido los diseños de la web de Granada En Tus Manos, y tras esto hemos definido un tiempo de 12 segundos para cada imagen, el experimento consiste en ver en que es en lo que se fijan los usuarios cuando ven los distintos apartados de la web.Hemos definido distintos áreas de interés de cada parte de la web, para ver si el usuario mira a lo que creemos que debe de mirar. Son tareas de exploración.
 
->>>Reclutado de usuarios:
+Reclutado de usuarios:
 Para el reclutado de usuarios hemos pasado el siguiente enlace: [Experimento](https://app.gazerecorder.com/Study/Test?StudyID=7e7cc679474008d84c082940626f6d0b&lang=es&RespondentID=null)
 
 Una vez realizada la prueba por los usuarios podemos ver los puntos que más le llaman la atención a los usuarios.
 
->>>5.b Informe y conclusiones
+5.b Informe y conclusiones
 
 Hemos usado un usuario experto(nosotros) y también dos usuarios distintos que no sabían donde debían de mirar y los resultados son los siguientes:
 
