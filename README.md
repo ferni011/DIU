@@ -274,8 +274,7 @@ También indicar que cuestionario SUS y la puntuación numérica nos brindarán 
 A partir de la información recopilada previamente, se ha preparado un informe de usabilidad para el caso B. Para acceder al informe completo, puedes hacer clic en el siguiente [enlace](./P4/UsabilityReport.pdf). El objetivo del informe de usabilidad ha sido proporcionar una visión objetiva y basada en evidencia sobre la calidad y la eficacia del diseño del caso B, así como ofrecer orientación para realizar ajustes y mejoras que optimicen la experiencia del usuario.
 
 
->>>  Paso 5. Eye Tracking
-
+# Paso 5. Eye Tracking
 
  ![Método UX](img/Accesibility.png) <br>
 5.a Diseño del experimento y reclutado de usuarios
@@ -292,48 +291,47 @@ Una vez realizada la prueba por los usuarios podemos ver los puntos que más le 
 
 Hemos usado un usuario experto(nosotros) y también dos usuarios distintos que no sabían donde debían de mirar y los resultados son los siguientes:
 
-![Experto Perfil](https://github.com/ferni011/DIU/assets/77587087/22ca0eaf-6a68-4644-95c9-5f135fbb0b73)
+![Experto Perfil](./P5/expertoperfil.png)
 
-![Usuarios Perfil](https://github.com/ferni011/DIU/assets/77587087/25cb3350-bbb3-4935-ae01-970eb08e7b4f)
+![Usuarios Perfil](./P5/usuariosperfil.png)
 
-![Areas de Interés](https://github.com/ferni011/DIU/assets/77587087/37041ec2-d0b8-47ba-a629-01b953bde5e8)
+![Areas de Interés](./P5/aolperfil.png)
 
 
 Podemos ver que el experto se fija en el botón de Editar perfil y de cancelar reserva mientras que los usuarios no.
 
-![Experto Contacto](https://github.com/ferni011/DIU/assets/77587087/fb3f2d99-4323-49e2-97e8-cf959664236d)
+![Experto Contacto](./P5/contactoexperto.png)
 
-![Usuarios Contacto](https://github.com/ferni011/DIU/assets/77587087/e7311604-1999-4d05-b836-6b90c3806c2a)
+![Usuarios Contacto](./P5/contactousuarios.png)
 
-![Areas de Interés](https://github.com/ferni011/DIU/assets/77587087/862bc850-5bf4-4adb-8368-ab40830de6e9)
-
-
-Podemos ver que no hay diferencias significativas
-
-
-![Experto Rutas](https://github.com/ferni011/DIU/assets/77587087/d4370a32-da84-4c63-93dd-4333348a9588)
-
-![Usuario Rutas](https://github.com/ferni011/DIU/assets/77587087/106d4ef6-e5b7-422f-8341-cb376d8f2cf9)
-
-![Areas de Interés](https://github.com/ferni011/DIU/assets/77587087/5c29543d-5591-41d7-a736-8da6650dd424)
-
-Podemos ver que no hay diferencias significativas
-
-
-![Experto Talleres](https://github.com/ferni011/DIU/assets/77587087/ecc209d4-a093-4b49-8388-883c2b09fd41)
-![Usuario Talleres](https://github.com/ferni011/DIU/assets/77587087/c263687b-8ad3-49e5-91f1-83d138e7a6cb)
-![Areas de Interés](https://github.com/ferni011/DIU/assets/77587087/2bc6ec39-7cb0-4914-8275-aca353e205fd)
-
-Podemos ver que no hay diferencias significativas
-
-
-![Experto Contacto](https://github.com/ferni011/DIU/assets/77587087/462a82cd-ff09-452c-a9dd-e483aaeb3974)
-![Usuarios Contacto](https://github.com/ferni011/DIU/assets/77587087/e4650e68-76e1-4e1c-9a35-3dfcca8816a0)
-![Areas de Interés](https://github.com/ferni011/DIU/assets/77587087/5588f291-eabb-46e4-8260-0c4de3f79cdc)
+![Areas de Interés](./P5/aolcontacto.png)
 
 
 Podemos ver que no hay diferencias significativas
 
+
+![Experto Rutas](./P5/expertorutas.png)
+
+![Usuario Rutas](./P5/usuariosrutas.png)
+
+![Areas de Interés](./P5/aolrutas.png)
+
+Podemos ver que no hay diferencias significativas
+
+
+![Experto Talleres](./P5/talleresexperto.png)
+![Usuario Talleres](./P5/usuariosexperto.png)
+![Areas de Interés](./P5/aolexperto.png)
+
+Podemos ver que no hay diferencias significativas
+
+
+![Experto Contacto](./P5/expertosobrenosotros.png)
+![Usuarios Contacto](./P5/usuariosaboutus.png)
+![Areas de Interés](./P5/aol.png)
+
+
+Podemos ver que no hay diferencias significativas
 
 Por lo tanto como conlusión podemos observar que la web está bien diseñada, ya que los elementos que queremos que mire el usuario para realizar rutas,talleres,iniciar sesión etc. , son los elementos que primero miraría una persona que entra a la web por primera vez.
 
