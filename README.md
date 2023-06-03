@@ -257,21 +257,21 @@ Brandon va a visitar Granada junto a su esposa. Brandon es inglés, tiene 33 añ
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+Para evaluar la satisfacción de los usuarios con el diseño y realizar el A/B testing, utilizaremos el cuestionario SUS, que consta de 10 preguntas. Cada pregunta se valora en una escala del 1 al 5 para evaluar el grado de satisfacción y usabilidad de la página web. Una vez recopilados los cuestionarios de los usuarios, utilizaremos una hoja de cálculo proporcionada para calcular una puntuación numérica basada en el cuestionario SUS.
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+Luego de calcular la puntuación numérica del cuestionario SUS, podemos utilizarla para obtener una medida cuantitativa de la satisfacción y usabilidad de la página web. Esta puntuación nos permitirá comparar diferentes diseños o variantes y determinar cuál tiene un mayor impacto positivo en la experiencia del usuario.
+![CuestionarioSUS](./P4/CuestionarioSUSDIU.png)
 
+Un valor numérico muchas veces puede ser poco representativo y difícil de entender, por eso haremos uso de esta SUS Score, para darle un valor lingüístico a los números.
+![SusScore](./P4/EscalaSUs.jpg)
+
+Para el caso A sale una puntuación media de 86 puntos, que equivale a una web "Excellent" y para el caso B una puntuación media de 78 puntos, una web "Good" muy cerca de "Excellent". Aunque las muestras son escasas, significa que los usuarios han tenido una experiencia positiva con la página web y altamente usable. En el caso B, la valoración es un poco peor ya que para un usuario la búsqueda se complica un poco por las características del usuario. Si la muestra de usuarios fuera mayor, probablemente no sería tan notorio la opinión de usuario en concreto a la hora de puntuar.
+También indicar que cuestionario SUS y la puntuación numérica nos brindarán una perspectiva inicial de la satisfacción de los usuarios. Sin embargo, para obtener una comprensión más completa y contextualizada de la experiencia del usuario, también debemos considerar otros factores cualitativos, como los comentarios y las observaciones de los usuarios durante el proceso de prueba.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
+A partir de la información recopilada previamente, se ha preparado un informe de usabilidad para el caso B. Para acceder al informe completo, puedes hacer clic en el siguiente [enlace](./P4/UsabilityReport.pdf). El objetivo del informe de usabilidad ha sido proporcionar una visión objetiva y basada en evidencia sobre la calidad y la eficacia del diseño del caso B, así como ofrecer orientación para realizar ajustes y mejoras que optimicen la experiencia del usuario.
 
 
 >>>  Paso 5. Eye Tracking
