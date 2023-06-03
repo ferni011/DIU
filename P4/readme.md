@@ -33,5 +33,5 @@ Con los resultados de los dados y las personas creadas, han quedado finalmente a
   Aquí dejamos el enlace del [Usablity-Report](./UsabilityReport.pdf)
   
   
-* Conclusiones
+  # Conclusiones
 En conclusión, el uso de personas reales con perfiles diversos y una muestra amplia es fundamental para obtener resultados más precisos y significativos en el A/B testing y la evaluación del SUS score. Aunque el uso de dados y personajes ficticios puede ser una alternativa, se debe tener en cuenta que los casos extremos pueden tener un impacto significativo en los resultados finales. Por lo tanto, se recomienda priorizar la participación de usuarios reales para obtener una comprensión más completa de la usabilidad y evitar sesgos en la evaluación.
