@@ -327,7 +327,7 @@ Podemos ver que no hay diferencias significativas
 
 
 ![Experto Contacto](./P5/expertosobrenosotros.png)
-![Usuarios Contacto](./P5/usuariosaboutus.png)
+![Usuarios Contacto](./P5/ususariosaboutus.png)
 ![Areas de Interés](./P5/aol.png)
 
 
