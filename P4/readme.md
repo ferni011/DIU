@@ -1,7 +1,8 @@
 # DIU - Practica 4, entregables
 
 
-* Users 
+* Fernando Pastrana Gómez
+* Iván Gijón Cañete
 
 Elección y características
 
