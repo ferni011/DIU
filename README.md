@@ -274,7 +274,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Valoración personal 
 
 
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
+>>>  Paso 5. Eye Tracking
 
 
  ![Método UX](img/Accesibility.png) <br>
