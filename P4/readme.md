@@ -20,7 +20,8 @@ Con los resultados de los dados y las personas creadas, han quedado finalmente a
   - Persona 4 Brandon: Tipo: 2 (Familia) Acción: 2 (Extranjeros) Emoción: 2 (Miedo) Brandon va a visitar Granada junto a su esposa. Brandon es inglés, tiene 33 años, es dueño de una discoteca y le encanta la artesanía en general y por lo tanto quiere descubrir la artesanía local junto a su esposa. Sin embargo, teme que no haya demasiada información o talleres que les permitan descubrir la artesanía local, ni socializar con otras personas.
  
  # CUESTIONARIO SUS
- Una vez respondidas las preguntas del Cuestionario SUS por nuestros usuarios, estos han sidos los resultados:
+ El cuestionario SUS es una herramienta utilizada para evaluar la usabilidad de un sistema, producto o servicio. Consta de 10 preguntas, cada pregunta se valora en una escala del 1 al 5 para evaluar el grado de satisfacción y usabilidad de la página web. Una vez recopilados los cuestionarios de los usuarios, utilizaremos una hoja de cálculo proporcionada para calcular una puntuación numérica basada en el cuestionario SUS.
+ Los resultados han sido los siguientes y los desarrollaremos adelante:
  ![CuestionariosSUS](./CuestionarioSUSDIU.png)
  Para sacar las valoraciones hemos hecho uso de la siguiente tabla:
  ![EscalaSUS](./EscalaSUs.jpg)
