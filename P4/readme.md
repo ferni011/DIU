@@ -32,7 +32,7 @@ Con los resultados de los dados y las personas creadas, han quedado finalmente a
 
   # USABILITY-REPORT
   El Usability-Report es una herramienta importante para evaluar y mejorar la experiencia del usuario en un producto o sistema que proporciona información detallada de los aspectos que se han     evaludado, para indicar las fortalezas y debilidades de la página, priorizar mejoras, etc.
-  Aquí dejamos el enlace del [Usablity-Report](./UsabilityReport.pdf)
+  Aquí dejamos el enlace del [Usablity-Report](./DIU_report-template-usability-GranadaEnTusManos-doneby-DIU2.LosEvarers.pdf)
   
   
   # Conclusiones
