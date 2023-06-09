@@ -274,7 +274,7 @@ También indicar que cuestionario SUS y la puntuación numérica nos brindarán 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-A partir de la información recopilada previamente, se ha preparado un informe de usabilidad para el caso B. Para acceder al informe completo, puedes hacer clic en el siguiente [enlace](./P4/UsabilityReport.pdf). El objetivo del informe de usabilidad ha sido proporcionar una visión objetiva y basada en evidencia sobre la calidad y la eficacia del diseño del caso B, así como ofrecer orientación para realizar ajustes y mejoras que optimicen la experiencia del usuario.
+A partir de la información recopilada previamente, se ha preparado un informe de usabilidad para el caso B. Para acceder al informe completo, puedes hacer clic en el siguiente [enlace](./P4/DIU_report-template-usability-GranadaEnTusManos-doneby-DIU2.LosEvarers.pdf). El objetivo del informe de usabilidad ha sido proporcionar una visión objetiva y basada en evidencia sobre la calidad y la eficacia del diseño del caso B, así como ofrecer orientación para realizar ajustes y mejoras que optimicen la experiencia del usuario.
 
 
 # Paso 5. Eye Tracking
