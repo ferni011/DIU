@@ -25,7 +25,8 @@ Con los resultados de los dados y las personas creadas, han quedado finalmente a
  ![CuestionariosSUS](./CuestionarioSUSDIU.png)
  Para sacar las valoraciones hemos hecho uso de la siguiente tabla:
  ![EscalaSUS](./EscalaSUs.jpg)
- Si se quiere ver con mayor detalle dejamos el enlace [aqui](./CuestionarioSUSDIU.xlsx)
+ 
+ Si se quiere ver con mayor detalle la hoja de cálculos rellenada a partir de los resultados, dejamos el enlace aqui: [ResultadosSUS](./CuestionarioSUSDIU.xlsx)
  
   El caso A(nuestra página web) sale una nota media de 86 puntos que equivale a una web "Excellent" y para el caso B una media de 78 puntos, una web "Good" muy cerca de "Excellent". Aunque las muestras son escasas, significa que los usuarios han tenido una experiencia positiva con la página web y altamente usable. En el caso B, la valoración es un poco peor ya que para un usuario la búsqueda se complica un poco por las características del usuario. Si la muestra de usuarios fuera mayor, probablemente no sería tan notorio la opinión de usuario en concreto a la hora de puntuar.
 
