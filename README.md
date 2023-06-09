@@ -263,7 +263,9 @@ Luego de calcular la puntuación numérica del cuestionario SUS, podemos utiliza
 ![CuestionarioSUS](./P4/CuestionarioSUSDIU.png)
 
 Un valor numérico muchas veces puede ser poco representativo y difícil de entender, por eso haremos uso de esta SUS Score, para darle un valor lingüístico a los números.
+<br>
 ![SusScore](./P4/EscalaSUs.jpg)
+<br>Fuente:https://www.torresburriel.com/weblog/2018/09/26/cinco-formas-de-interpretar-un-sus/
 
 Para el caso A sale una puntuación media de 86 puntos, que equivale a una web "Excellent" y para el caso B una puntuación media de 78 puntos, una web "Good" muy cerca de "Excellent". Aunque las muestras son escasas, significa que los usuarios han tenido una experiencia positiva con la página web y altamente usable. En el caso B, la valoración es un poco peor ya que para un usuario la búsqueda se complica un poco por las características del usuario. Si la muestra de usuarios fuera mayor, probablemente no sería tan notorio la opinión de usuario en concreto a la hora de puntuar.
 También indicar que cuestionario SUS y la puntuación numérica nos brindarán una perspectiva inicial de la satisfacción de los usuarios. Sin embargo, para obtener una comprensión más completa y contextualizada de la experiencia del usuario, también debemos considerar otros factores cualitativos, como los comentarios y las observaciones de los usuarios durante el proceso de prueba.
