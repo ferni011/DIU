@@ -291,51 +291,16 @@ Una vez realizada la prueba por los usuarios podemos ver los puntos que más le 
 
 5.b Informe y conclusiones
 
-Hemos usado un usuario experto(nosotros) y también dos usuarios distintos que no sabían donde debían de mirar y los resultados son los siguientes:
+Hemos usado un usuario experto(nosotros) y también dos usuarios distintos que no sabían donde debían de mirar y aquí dejamos algunas imágenes de los resultados:
 
 ![Experto Perfil](./P5/expertoperfil.png)
 
-![Usuarios Perfil](./P5/usuariosperfil.png)
-
-![Areas de Interés](./P5/aolperfil.png)
-
-
-Podemos ver que el experto se fija en el botón de Editar perfil y de cancelar reserva mientras que los usuarios no.
-
-![Experto Contacto](./P5/contactoexperto.png)
-
-![Usuarios Contacto](./P5/contactousuarios.png)
-
 ![Areas de Interés](./P5/aolcontacto.png)
-
-
-Podemos ver que no hay diferencias significativas
-
-
-![Experto Rutas](./P5/expertorutas.png)
 
 ![Usuario Rutas](./P5/usuariosrutas.png)
 
-![Areas de Interés](./P5/aolrutas.png)
-
-Podemos ver que no hay diferencias significativas
-
-
-![Experto Talleres](./P5/talleresexperto.png)
-![Usuario Talleres](./P5/usuariosexperto.png)
-![Areas de Interés](./P5/aolexperto.png)
-
-Podemos ver que no hay diferencias significativas
-
-
-![Experto Contacto](./P5/expertosobrenosotros.png)
-![Usuarios Contacto](./P5/ususariosaboutus.png)
-![Areas de Interés](./P5/aol.png)
-
-
-Podemos ver que no hay diferencias significativas
-
-Por lo tanto como conlusión podemos observar que la web está bien diseñada, ya que los elementos que queremos que mire el usuario para realizar rutas,talleres,iniciar sesión etc. , son los elementos que primero miraría una persona que entra a la web por primera vez.
+Una vez analizadas todas las imágenes, podemos ver que no hay diferencias significativas entre la vista de los expertos y la de los usuarios, salvo que el experto fija la vista en el botón de Editar perfil y de cancelar reservas mientras que los usuarios no.
+Por lo tanto, como conlusión podemos observar que la web está bien diseñada, ya que los elementos que queremos que mire el usuario para realizar rutas,talleres,iniciar sesión etc. , son los elementos que primero miraría una persona que entra a la web por primera vez.
 
 
 
