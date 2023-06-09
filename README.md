@@ -260,7 +260,8 @@ Brandon va a visitar Granada junto a su esposa. Brandon es inglés, tiene 33 añ
 Para evaluar la satisfacción de los usuarios con el diseño y realizar el A/B testing, utilizaremos el cuestionario SUS, que consta de 10 preguntas. Cada pregunta se valora en una escala del 1 al 5 para evaluar el grado de satisfacción y usabilidad de la página web. Una vez recopilados los cuestionarios de los usuarios, utilizaremos una hoja de cálculo proporcionada para calcular una puntuación numérica basada en el cuestionario SUS.
 
 Luego de calcular la puntuación numérica del cuestionario SUS, podemos utilizarla para obtener una medida cuantitativa de la satisfacción y usabilidad de la página web. Esta puntuación nos permitirá comparar diferentes diseños o variantes y determinar cuál tiene un mayor impacto positivo en la experiencia del usuario.
-![CuestionarioSUS](./P4/CuestionarioSUSDIU.png)
+A continuación se pueden ver los resultados de los usuarios al rellenar el cuestionario SUS, si se quiere ver con mayor detalle la hoja de cálculos rellenada a partir de los resultados, dejamos el enlace aqui: [ResultadosSUS](./P4/CuestionarioSUSDIU.xlsx)
+![CuestionarioSUS](./P4/SUSValores.jpeg)
 
 Un valor numérico muchas veces puede ser poco representativo y difícil de entender, por eso haremos uso de esta SUS Score, para darle un valor lingüístico a los números.
 <br>
